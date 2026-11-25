@@ -13,3 +13,9 @@ How it works
 2. Documents are chunked, embedded, and stored in ChromaDB
 
 3. Questions are embedded and matched against stored chunks via semantic search
+
+Visual Demo
+
+1. ![Flask development server running on port 8000](docs/screenshots/flask-startup.png)
+
+2. ![Chatbot answering questions about an uploaded PDF](docs/screenshots/chatbot-demo.png)
