@@ -18,8 +18,9 @@ Visual Demonstration:
 
 How to run the program:
 
-1. Open the terminal on your computer.
-2. Activate Python virtual environment (source venv/bin/activate)
+1. Git clone the repository (git clone https://github.com/ferntellez/Rag-Chatbot.git)
+2. Open the terminal on your computer & head to the directory where the repository is saved.
+2. Activate Python virtual environment (source venv/bin/activate) within that directory.
 3. Start the Flask server (PORT=8000 python app.py)
 4. Wait until Terminal shows `Running on http://127.0.0.1:8000`
 5. Head to any browser and open the chatbot at (http://localhost:8000) then upload a document and ask any question.
