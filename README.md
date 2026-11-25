@@ -6,7 +6,7 @@ A full-stack retrieval-augmented generation (RAG) chatbot that lets you upload d
 
 
 
-How it works
+How it works:
 
 1. Upload a PDF or TXT file through the web UI
 
@@ -14,8 +14,7 @@ How it works
 
 3. Questions are embedded and matched against stored chunks via semantic search
 
-Visual Demo
+Visual Demonstration:
 
-1. ![Flask development server running on port 8000](docs/screenshots/flask-startup.png)
-
-2. ![Chatbot answering questions about an uploaded PDF](docs/screenshots/chatbot-demo.png)
+<img width="1470" height="956" alt="UI:Results" src="https://github.com/user-attachments/assets/41fdb4aa-e3f3-4dac-bf3c-70a8d89c5759" />
+<img width="1470" height="956" alt="App Startup" src="https://github.com/user-attachments/assets/00c1a32d-bd0b-49f6-9d07-e801584470b9" />
